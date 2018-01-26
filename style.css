@@ -1,0 +1,74 @@
+body {
+  padding: 5%;
+  box-sizing: border-box;
+  position: static; }
+  body div {
+    border: 1px solid black; }
+  body div#diamonds {
+    position: absolute;
+    left: 55%;
+    top: 10%;
+    width: 40%;
+    height: 80%;
+    display: inline-block; }
+    body div#diamonds div#projects {
+      position: absolute;
+      left: 10%;
+      top: 25%;
+      width: 33%;
+      height: 50%;
+      background: url("diamond.png");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover; }
+    body div#diamonds div#resume {
+      position: absolute;
+      left: 33%;
+      top: 0%;
+      width: 33%;
+      height: 50%;
+      background: url("diamond.png");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover; }
+    body div#diamonds div#cosplay {
+      position: absolute;
+      left: 33%;
+      top: 50%;
+      width: 33%;
+      height: 50%;
+      background: url("diamond.png");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover; }
+    body div#diamonds div#store {
+      position: absolute;
+      left: 56%;
+      top: 25%;
+      width: 33%;
+      height: 50%;
+      background: url("diamond.png");
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover; }
+  body div#harley {
+    position: absolute;
+    width: 20%;
+    height: 80%; }
+  body div#picture {
+    position: absolute;
+    left: 27%;
+    width: 25%;
+    height: 40%; }
+  body div#biography {
+    position: absolute;
+    top: 50%;
+    left: 27%;
+    width: 25%;
+    height: 40%; }
+
+/*# sourceMappingURL=style.css.map */
