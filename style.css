@@ -1,7 +1,8 @@
 body {
   padding: 5%;
   box-sizing: border-box;
-  position: static; }
+  position: static;
+  background-color: #ccc; }
   body div {
     border: 1px solid black; }
   body div#diamonds {
